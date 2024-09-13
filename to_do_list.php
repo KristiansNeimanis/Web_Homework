@@ -2,10 +2,9 @@
 
 $tasklist =["first", "second"];
 function showAlltask($inputTask){
-    foreach($inputTask as $task)
+    foreach($inputTask as $task);
 }
 
-function
 $name = readline("Ievadi savu vārdu:\n");
 echo "Your name is $name";
 
